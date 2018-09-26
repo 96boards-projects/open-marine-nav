@@ -26,6 +26,13 @@ Open Source Marine Navigation Platform for [96boards](96boards.org). YVR18 Hacka
   * [OpenCPN](https://opencpn.org)
     * Concise and robust Chart Plotter Navigation software
 
+# OTA
+
+Operating system updates managed by [Foundries.io](https://foundries.io) dashboard 
+  * Note: Only microPlatform subscribers can have managed devices
+
+![OTA](/images/ota.png)
+
 # Goals
 
   * Create a functioning marine navigation system with [Open Navigation](https://github.com/open-nav)
