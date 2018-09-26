@@ -16,9 +16,9 @@ Open Source Marine Navigation Platform for [96boards](96boards.org). YVR18 Hacka
 # Software
 
   * [Foundries.io](https://foundries.io) Linux microPlatform
-  * gpsd (GPS parsing)
-  * rtl-ais (AIS Parsing)
-  * OpenCPN (Plotter)
+  * [gpsd](https://git.savannah.gnu.org/cgit/gpsd.git) (GPS parsing)
+  * [rtl-ais](https://github.com/dgiardini/rtl-ais) (AIS Parsing)
+  * [OpenCPN](https://opencpn.org) (Plotter)
 
 # Goals
 
@@ -32,4 +32,7 @@ Open Source Marine Navigation Platform for [96boards](96boards.org). YVR18 Hacka
 - [x] Install Linux microPlatform on d410c
 - [x] Review Linux driver support for LTE mezzanine
 - [x] Order Project Fi data sim for testing
-- [ ] Get data sheet for LTE mezzanine and uart protocol?!?
+- [ ] Get data sheet / schematic for LTE mezzanine and uart protocol reference
+- [ ] Test Project Fi sim card
+- [ ] Containerize service for extracting sensors data from mezzanine and conver to NMEA 0183 message format
+- [ ] Store marine data on blockchain / dlt
