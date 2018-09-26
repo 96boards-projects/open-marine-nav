@@ -9,6 +9,8 @@ Open Source Marine Navigation Platform for [96boards](96boards.org). YVR18 Hacka
   * Realtek RTL2832U (AIS)
   * RS422 USB to serial converter (NMEA 0183)
 
+![d410c](/images/d410c.jpg)
+
 # Software
 
   * [Foundries.io](https://foundries.io) Linux microPlatform
